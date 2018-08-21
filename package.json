@@ -1,13 +1,13 @@
 {
   "name": "songshell",
   "version": "1.0.0",
-  "description": "Create a directory with pertinent info to get started with songwriting",
+  "description": "CLI to create a directory with lyrics and other info to get started with songwriting",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "scraggo.github.io",
-  "license": "ISC",
+  "license": "MIT",
   "bin": {
     "songshell": "bin/songshell"
   },
