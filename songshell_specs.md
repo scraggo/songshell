@@ -1,4 +1,4 @@
-# Songshell Tests
+# Songshell Specifications
 
 ## Should allow for cli arguments
 
@@ -12,15 +12,15 @@ if no created date, use current day and say "Songshell created on `today's date`
 
 ## Should create 3 files
 
+```txt
 _readme_<song name>.txt
-
 _lyrics_<song name>.txt
-
 _music_<song name>.txt
+```
 
 ## _readme should contain this text
 
-```
+```txt
 # <Song name>
 
 ## Initial Idea
@@ -34,13 +34,13 @@ date || "Songshell created on `today's date`"
 
 ## _lyrics should contain this text
 
-```
+```txt
 # <Song Name> Lyrics
 ```
 
 ## _music should contain this text
 
-```
+```txt
 # <Song Name> Music
 
 Tempo:
