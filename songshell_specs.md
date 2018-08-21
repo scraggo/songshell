@@ -4,9 +4,9 @@
 
 `songshell <song name> <date created>`
 
-n, name: song name (required)
+name: song name (required)
 
-d, date: date created (optional)
+date: date created (optional)
 
 if no created date, use current day and say "Songshell created on `today's date`"
 
@@ -29,7 +29,6 @@ date || "Songshell created on `today's date`"
 
 ## Influences & Description
 
-...
 ```
 
 ## _lyrics should contain this text
@@ -48,6 +47,6 @@ Tempo:
 see LyricTemplate.pdf
 ```
 
-## User checkin
+## User check-in
 
 "This will create directory "...". Continue?"
