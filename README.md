@@ -1,6 +1,6 @@
 # Songshell
 
-CLI to create a directory with lyrics and other info to get started with songwriting.
+CLI to create a directory with boilerplate music, lyrics, and readme files to get started with songwriting.
 
 ## Getting Started
 

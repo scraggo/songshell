@@ -1,7 +1,7 @@
 {
   "name": "songshell",
   "version": "1.0.0",
-  "description": "CLI to create a directory with lyrics and other info to get started with songwriting",
+  "description": "CLI to create a directory with boilerplate music, lyrics, and readme files to get started with songwriting.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
