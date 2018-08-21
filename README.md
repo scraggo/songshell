@@ -36,7 +36,7 @@ MyNewSong/_music_MyNewSong.txt
 
 \* If a date isn't specified, the current day is used.
 
-Each file contains a little bit of boilerplate to help you organize your songwriting process.
+Each file contains a little bit of boilerplate to help you organize your songwriting process. See [./utils/templates.js](utils/templates.js).
 
 ### Prerequisites
 
